@@ -4,8 +4,14 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("hi");
+        ABC obj = new ABC();
+    }
+    }
 
+    class ABC {
+    public  ABC(){
+
+        System.out.println("");
     }
     }
 
